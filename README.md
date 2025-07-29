@@ -31,22 +31,26 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="./assets/powerbi.svg" alt="powerbi" width="50" height="50"/>
-  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  </a>
+  </a> 
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/microsoft-power-bi.svg" alt="powerbi" width="50" height="50"/>
+  </a> 
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="50" height="50"/>
   </a>
   <a href="https://orangedatamining.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Pedro-Murilo/icons-for-readme/main/orange-icon.svg" alt="orange" width="50" height="50"/>
   </a>
+  <a href="https://neo4j.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Pedro-Murilo/icons-for-readme/main/neo4j.svg" alt="neo4j" width="50" height="50"/>
+  </a>
 </p>
+
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hansani123&show_icons=true&locale=en&layout=compact" alt="hansani123" /></p>
