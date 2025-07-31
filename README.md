@@ -1,6 +1,6 @@
 <div align="center">
 <h2> Hi I'm Hansani, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
-<h3 align="center">Passionate Data Analytics and Finance Professional with Big Four experience from Sri Lanka</h3>
+<h3 align="center">Data Analytics and Finance Professional with Big Four experience, passionate about delivering insights and business value for organizations seeking data-driven growth</h3>
 
 
 ![Hansani Sevanthi Banner](https://media.licdn.com/dms/image/v2/D5616AQHWAmRDxlAZ1Q/profile-displaybackgroundimage-shrink_350_1400/B56ZU3EyG7HEAY-/0/1740385756515?e=1756944000&v=beta&t=qucgQQsx_2ki3mpf9TmsQut-je2r5R6nisr7XH-LRP4)
@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Skin cancer prediction modeling and healthcare data analytics projects.**
 
-- 🤝 I’m looking for help with **Medical data interpretation and advanced data or financial analytics for data-driven decision-making.**
+- 🤝 I’m looking for help with **finding opportunities in data or financial analytics roles, to support data-driven decision-making as a data analyst or business analyst.**
 
 - 💬 Ask me about **Power BI dashboards, financial analytics, data-driven decision-making, Big Four audit experience, and transforming complex financial data into actionable insights.**
 
