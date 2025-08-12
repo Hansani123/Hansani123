@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **]healthcare data analytics projects.**
+- 👯 I’m looking to collaborate on **healthcare data analytics projects.**
 
 - 🤝 I’m looking for help with **finding opportunities in data or financial analytics roles, to support data-driven decision-making as a data analyst or business analyst.**
 
