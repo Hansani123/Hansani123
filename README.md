@@ -33,26 +33,22 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  </a> 
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-power-bi.svg" alt="powerbi" width="50" height="50"/>
-  </a> 
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="50" height="50"/>
-  </a>
-  <a href="https://orangedatamining.com/" target="_blank" rel="noreferrer">
+<img src="https://github.com/phildinh/Phildinh/assets/169891895/58273a30-d73a-4b62-baf0-b9e1aa208c20" width="90">
+<img src="https://github.com/phildinh/Phildinh/assets/169891895/b1e94402-7954-4c7c-98db-05c3f59dae4e" width="60">
+<img src="https://github.com/phildinh/Phildinh/assets/169891895/d1925e8e-c477-4e7c-a7a4-f3c9b97e037a" width="90">
+<img src="https://github.com/phildinh/Phildinh/assets/169891895/92844afd-d6b1-4715-8c73-e4ece0e4c4a9" width="80">
+<img src="https://github.com/phildinh/Phildinh/assets/169891895/bf5d3b67-3215-4a3d-bc9a-299268902dda" width="60">
+<img src="https://github.com/phildinh/Phildinh/assets/169891895/af97e246-3b4c-40cc-aaf8-81723ea0ea67" width="150">
+<a href="https://orangedatamining.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Pedro-Murilo/icons-for-readme/main/orange-icon.svg" alt="orange" width="50" height="50"/>
   </a>
-  <a href="https://neo4j.com/" target="_blank" rel="noreferrer">
+<a href="https://neo4j.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Pedro-Murilo/icons-for-readme/main/neo4j.svg" alt="neo4j" width="50" height="50"/>
   </a>
-</p>
 
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hansani123&show_icons=true&locale=en&layout=compact" alt="hansani123" /></p>
+
+
+     
